@@ -34,3 +34,6 @@ _This is to encourage a pull request workflow_ :sweat_smile:
 
 
 That's about it :tada::confetti_ball::confetti_ball::tada:
+
+
+Refer the wiki for more details
